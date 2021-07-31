@@ -7,5 +7,6 @@ These projects include
 1. gesture recognition
 2. MRI image modality transfer
 3. RL model for revenue optmization of cab drivers
+4. Telecom Churn
 
 More projects will be addded in future as we progress
